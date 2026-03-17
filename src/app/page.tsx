@@ -39,10 +39,10 @@ export default function Home() {
           <div className="flex items-center justify-center mb-8">
             <Image
               className="dark:invert"
-              src="/next.svg"
-              alt="Next.js logo"
-              width={100}
-              height={20}
+              src="/cat.svg"
+              alt="Cat logo"
+              width={120}
+              height={120}
               priority
             />
           </div>
